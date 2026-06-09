@@ -1,0 +1,6 @@
+cd /home/CarlaSilva/Documentos/tesis_maestria_carla/secuencias_limpias/alineamientos_postmesquite/alineamientos_postmesquite_09_06_26/nexus
+
+mpirun -np 8 ~/MrBayes/src/mb
+
+execute its_thelephorales_nuevo.nex
+
