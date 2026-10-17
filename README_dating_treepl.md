@@ -1,6 +1,6 @@
 # Guía de fechado con treePL — Thelephorales (servidor beagle)
 
-Esta guía fecha el árbol de máxima verosimilitud de 539 especies (`results/especies_compuestas/`) con treePL, siguiendo el protocolo de Maurin (2020) y el flujo de Thelephoraceae de América, con cinco calibraciones fósiles y una calibración secundaria en la raíz (271.2 Ma).
+Esta guía fecha el árbol de máxima verosimilitud de 539 especies (`results/especies_compuestas/`) con treePL, siguiendo el protocolo de Maurin (2020) y el flujo de Thelephoraceae de América (Andrea Mackie Greene), con cinco calibraciones fósiles y una calibración secundaria en la raíz (271.2 Ma).
 
 ## Qué árbol usar: el .treefile
 
